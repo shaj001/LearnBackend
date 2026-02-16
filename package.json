@@ -1,0 +1,16 @@
+{
+  "name": "yt_clone_backend",
+  "version": "1.0.0",
+  "description": "chai backend series followUp",
+  "keywords": [
+    "yt_clone",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "sherry",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
